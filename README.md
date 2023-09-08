@@ -12,9 +12,9 @@ escale las imagenes a 255y se creo un modelo secuencial utilizando capas convolu
 
 Se realizo muchas pruebas con diferentes calibraciones de tamaños de imagenes y tipos de optimizadores asi como epocas de entrenamiento hasta llegar a nuestro modelo final el cual esta adjunto al presente repositorio el cual nos dio mayor acierto 
 
-Se realizo el archivo PRUEBA_CLASIFICADOR para comprobar el modelo se lo cargo y primero se uso imagenes con las que se entreno SOLO PARA VER QUE SE ESTE ASIGNANDO LAS CLASES DE MANERA CORRECTA Y TODO ESTE FUNCIONANDO BIEN y despues ya se probo con imagenes de validacion
+Se realizo el archivo PRUEBA_CLASIFICADOR para comprobar el modelo cargamos nuestro archivo.h5 y primero probamos con imagenes individuales con las que se entreno SOLO PARA VER QUE SE ESTE ASIGNANDO LAS CLASES DE MANERA CORRECTA Y TODO ESTE FUNCIONANDO BIEN y despues ya se probo con imagenes de validacion
 
-Posteriormente se creo la Matriz de confusion para validar como quedo nuestro modelo donde pudimos evidenciar que nuestro modelo tenia una maxima presicion identificando gabetas vacias con una presicion del 100% y con una menor presicion de detecsion de la clase 8 
+Posteriormente se creo la Matriz de confusion para validar como quedo nuestro modelo donde pudimos evidenciar que nuestro modelo tenia una maxima presicion identificando gabetas vacias con una presicion del 100% y con una menor presicion de deteccion de la clase 8 
 
 
 ### Screenshot
