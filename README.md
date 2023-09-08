@@ -18,10 +18,11 @@ Posteriormente se creo la Matriz de confusion para validar como quedo nuestro mo
 
 
 ### Screenshot
-![Entrenamiento del modelo](/home/shadow2392/Pictures/Screenshots/1.png)
-![Matriz de confusion](/home/shadow2392/Pictures/Screenshots/2.png)
+![Entrenamiento del modelo]([/home/shadow2392/Pictures/Screenshots/1.png](https://github.com/geovanny2392/MODELO_CLASIFICADOR_CARNE/blob/main/1.png))
+![Matriz de confusion]([/home/shadow2392/Pictures/Screenshots/2.png](https://github.com/geovanny2392/MODELO_CLASIFICADOR_CARNE/blob/main/2.png))
 
-<span>![</span><span>Aquí la descripción de la imagen por si no carga</span><span>]</span><span>(</span><span>https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/ImagenV1.png</span><span>)</span>
+<span>![</span><span>Entrenamiento del modelo </span><span>]</span><span>(</span><span>[https://github.com/geovanny2392/MODELO_CLASIFICADOR_CARNE/blob/main/1.png</span><span>)</span>
+<span>![</span><span>Matriz de confusion </span><span>]</span><span>(</span><span>https://github.com/geovanny2392/MODELO_CLASIFICADOR_CARNE/blob/main/2.png</span><span>)</span>
 
 
 
