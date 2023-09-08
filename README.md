@@ -21,6 +21,10 @@ Posteriormente se creo la Matriz de confusion para validar como quedo nuestro mo
 ![Entrenamiento del modelo](/home/shadow2392/Pictures/Screenshots/1.png)
 ![Matriz de confusion](/home/shadow2392/Pictures/Screenshots/2.png)
 
+<span>![</span><span>Aquí la descripción de la imagen por si no carga</span><span>]</span><span>(</span><span>https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/ImagenV1.png</span><span>)</span>
+
+
+
 
 ### Technologies
 ***
